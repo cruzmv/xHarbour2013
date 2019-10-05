@@ -1,0 +1,23 @@
+ok - tem que acresentar nos .XBP as duas linhas abaixa
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\odbc32.lib]
+
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\odbccp32.lib]
+
+ok - SUBISTITUIR TUDO QUE ESTÁ SENDO USADO PELO FIVEHC
+
+ok - não está abrindo os mapas de geolocalização
+
+- testar se busca o peso eletrônico das balança
+
+ok - testar se a função que teste se tem internet está funcionando
+
+- testar a emissão de NFE e CTE
+
+ok - Erro ao descompactar arquivos ZIP unsando: HB_UNZIPFILE
+
+- quando sobe um arquivo para o FTP ele não está indo para a pasta certa
+- as maquinas de cheque não estão funcionando nessa versão, as balanças funcionam
+
+- criar uma lib com as funções do fivewin
+
+

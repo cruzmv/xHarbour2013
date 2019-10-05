@@ -1,0 +1,1 @@
+d:\devel\xharbour\bin\xbuild.exe info.exe.xbp -Noerr

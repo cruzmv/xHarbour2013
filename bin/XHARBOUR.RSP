@@ -1,0 +1,31 @@
+/ap +
+/Gn +
+/Lc:\xharbour\lib;c:\borland\bcc65\lib;c:\borland\bcc65\lib\psdk;c:\borland\bcc65\lib;c:\borland\bcc65\lib\psdk; +
+/x
+
+rtl.lib +
+vm.lib +
+common.lib +
+lang.lib +
+gtwin.lib +
+gtcgi.lib +
+rdd.lib +
+dbffpt.lib +
+dbfntx.lib +
+dbfcdx.lib +
+hbsix.lib +
+macro.lib +
+pcrepos.lib +
+hbodbc.lib +
+hbzip.lib +
+libnf.lib +
+ct.lib +
+tip.lib +
+hbcc.lib +
+sevenzip.lib +
+import32.lib +
+cw32.lib +
+odbc32.lib +
+ws2_32.lib +
+gtwvw.lib
+

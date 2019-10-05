@@ -1,0 +1,41 @@
+CINI = 
+C_OUTPUTFOLDER = 
+DEFFILE = 
+INCLUDEFOLDERS = D:\Devel\xHarbour\contrib\sqlrdd\include;
+LAUTORUN = 
+LDEBUG = .F.
+LGUI = .F.
+LIBFOLDERS = D:\Devel\xHarbour\contrib\sqlrdd\lib;
+LMT = .F.
+LNOAUTOFWH = .F.
+LPRG_CLASSICDEBUG = .F.
+LPRG_DEBUG = .F.
+LUSEDLL = .F.
+MAPFILE = 
+MYC_FLAGS = 
+MYDEFINES = 
+MYLINK_FLAGS = -Gn -s 
+MYPRG_FLAGS = 
+MYRC_FLAGS = 
+MYSLY_FLAGS = 
+OUTPUTFOLDER = 
+PRG_OUTPUTFOLDER = 
+RC_OUTPUTFOLDER = 
+RUNARGUMENTS = 
+SLY_OUTPUTFOLDER = 
+STARTIN = 
+TARGETFOLDER = 
+
+[demo01.prg]
+MYC_FLAGS = 
+MYDEFINES = 
+MYPRG_FLAGS = 
+
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\SQL.lib]
+
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\libpq.lib]
+
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\odbc32.lib]
+
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\odbccp32.lib]
+
